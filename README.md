@@ -22,6 +22,7 @@
 - `dartz`: <a target="_blank" href="https://pub.dev/packages/dartz">https://pub.dev/packages/dartz</a>
 - `carousel_slider`: <a target="_blank" href="https://pub.dev/packages/carousel_slider">https://pub.dev/packages/carousel_slider</a>
 - `infinite_scroll_pagination`: <a target="_blank" href="https://pub.dev/packages/infinite_scroll_pagination">https://pub.dev/packages/infinite_scroll_pagination</a>
+- `get_it`: <a target="_blank" href="https://pub.dev/packages/get_it">https://pub.dev/packages/get_it</a>
 - `webview_flutter`: <a target="_blank" href="https://pub.dev/packages/webview_flutter">https://pub.dev/packages/webview_flutter</a>
 - `youtube_player_flutter`: <a target="_blank" href="https://pub.dev/packages/youtube_player_flutter">https://pub.dev/packages/youtube_player_flutter</a><br>
 
